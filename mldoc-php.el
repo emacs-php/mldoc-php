@@ -36,7 +36,8 @@
   :group 'mldoc
   :group 'php)
 
-(defcustom mldoc-php-phpdoc-spec '("[" :defined-by "]" " /** " :function " " (args ", ") " */")
+(defcustom mldoc-php-phpdoc-spec
+  '("[" :defined-by "]" " /** " :function " " (args ", ") " */")
   "MLDoc display specification for PHPDoc."
   :type 'list)
 
