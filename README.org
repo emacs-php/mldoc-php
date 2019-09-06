@@ -1,0 +1,2 @@
+* mldoc-php - ElDoc function based on [[https://github.com/emacs-php/mldoc][MLDoc]]
+This package provides ElDoc function for PHP script.
